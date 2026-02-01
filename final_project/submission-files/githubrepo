@@ -1,0 +1,5 @@
+Command:
+curl -s https://api.github.com/repos/SPinzon12/expressBookReviews | jq '.parent.full_name'
+
+Output:
+"ibm-developer-skills-network/expressBookReviews"

@@ -1,0 +1,11 @@
+Command:
+curl http://localhost:5000/author/Hans%20Christian%20Andersen
+
+Output:
+{
+    "2": {
+        "author": "Hans Christian Andersen",
+        "title": "Fairy tales",
+        "reviews": {}
+    }
+}

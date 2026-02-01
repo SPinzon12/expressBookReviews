@@ -1,0 +1,9 @@
+Command:
+curl http://localhost:5000/isbn/2
+
+Output:
+{
+    "author": "Hans Christian Andersen",
+    "title": "Fairy tales",
+    "reviews": {}
+}
